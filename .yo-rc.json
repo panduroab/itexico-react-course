@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactCourse",
+    "style": "css",
+    "postcss": false
+  }
+}
